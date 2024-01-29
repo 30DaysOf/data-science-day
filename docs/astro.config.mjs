@@ -10,7 +10,7 @@ export default defineConfig({
 	
 	integrations: [
 		starlight({
-			title: 'Leap Into Data Scienced',
+			title: 'Leap Into Data Science',
 			logo: {
 				light: './src/assets/astro-light.png',
 				dark: './src/assets/astro-dark.png',
