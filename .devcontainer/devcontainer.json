@@ -1,0 +1,16 @@
+{
+	"name": "30DaysOf Astro",
+	"image": "mcr.microsoft.com/playwright:v1.41.1-jammy",
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode-remote.remote-containers",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"astro-build.astro-vscode",
+				"ms-playwright.playwright"
+			]
+		}
+	}
+}
