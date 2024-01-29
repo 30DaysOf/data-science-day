@@ -1,31 +1,22 @@
-# Learn with #30DaysOfAstro
+# Learn with #30DaysOfDataScience
 
 ## 1. Learning Objectives
 
-- Understand core Astro concepts
-- Learn core Astro tooling
-- Build, test & deploy an Astro project
-- Use Astro Starlight as documentation framework
+- Understand core Data Science Concepts
+- Explore core Data Science Tools
+- Learn to Analyze & Visualize Data with AI help
+- Learn to Debug & Assess Models for Responsible AI
+- Build your intuition & skills with hands-on exercises
 
 ## 2. Dev Container
 
-The project is instrumented with a `devcontainer.json` intended for Node.js projects. For convenience, we're using the [Playwright Docker Image](https://playwright.dev/docs/docker#introduction) which also gives us the Playwright testing harness by default. 
+The project is instrumented with a `devcontainer.json` based on the **codespaces-jupyter** example from GitHub. The configuration has been enhanced to add additional package dependencies required for exercises. We'll use this section to update the list of dependencies as we go:
 
-Let's check our tooling versions (this should trigger installs automatically if required).
+| Requirement | Description |
+|:---|:---|
+| `openai` | Support usage of OpenAI Python library for relevant exercises |
+| | |
 
-```bash
-node --version
-v20.11.0
-
-npm --version
-10.4.0
-
-npx playwright --version
-Version 1.41.1
-
-npx astro --version
-astro  v4.2.6
-```
 
 ## 3. Astro Starlight Setup
 
@@ -39,7 +30,13 @@ npm install && npm run dev
 
 ## 4. 30DaysOf Roadmap
 
-Learn Astro through a series of small projects that teach different concepts.
+Ww'll break the content into 4 weekly themes:
+ - Learn Core Concepts
+ - Understand Core Tools
+ - Project 1: Analyze and Visualize Data from an Open-Source Data Set
+ - Project 2: Debug and Assess Data Model for Responsible AI Practices
+
+Details TBD.
 
 | Topic | Description |
 |:---|:---|
