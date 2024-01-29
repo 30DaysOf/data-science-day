@@ -1,0 +1,33 @@
+# jupyter-codespaces base
+ipywidgets
+matplotlib
+numpy
+pandas
+torch
+torchvision
+tqdm
+
+# Added for OpenAI
+openai
+
+# Added for RAI
+nbconvert
+transformers
+
+# RAI-pinned deps
+networkx<=2.5
+ipykernel<=6.8.0
+markupsafe>=2.0.1,<=2.1.2
+raiutils>=0.4.0
+nlp-feature-extractors==0.1.0
+responsibleai>=0.32.1
+
+# RAI Other Deps
+ml-wrappers
+raiwidgets
+responsibleai_text
+responsibleai_vision
+jsonschema
+requests
+torchmetrics
+vision_explanation_methods

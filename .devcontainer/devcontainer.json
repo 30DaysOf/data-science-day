@@ -1,16 +1,25 @@
 {
-	"name": "30DaysOf Astro",
-	"image": "mcr.microsoft.com/playwright:v1.41.1-jammy",
+	"name": "30DaysOf Data Science",
 
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"hostRequirements": {
+	  "cpus": 4
+	},
+	"waitFor": "onCreateCommand",
+	"updateContentCommand": "python3 -m pip install -r requirements.txt",
+	"postCreateCommand": "",
 	"customizations": {
-		"vscode": {
-			"extensions": [
-				"ms-vscode-remote.remote-containers",
-				"GitHub.copilot",
-				"GitHub.copilot-chat",
-				"astro-build.astro-vscode",
-				"ms-playwright.playwright"
-			]
-		}
+	  "codespaces": {
+		"openFiles": []
+	  },
+	  "vscode": {
+		"extensions": [
+		  "ms-toolsai.jupyter",
+		  "ms-python.python",
+		  "GitHub.copilot",
+		  "GitHub.copilot-chat",
+		  "astro-build.astro-vscode",
+		]
+	  }
 	}
 }

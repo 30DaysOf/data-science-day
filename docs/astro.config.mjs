@@ -5,12 +5,12 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 
 	site: 'https://30daysof.github.io',
-	base: '/astro',
+	base: '/data-science',
 	trailingSlash: "always",
 	
 	integrations: [
 		starlight({
-			title: '30DaysOf Astro',
+			title: 'Leap Into Data Scienced',
 			logo: {
 				light: './src/assets/astro-light.png',
 				dark: './src/assets/astro-dark.png',
