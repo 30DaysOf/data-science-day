@@ -5,13 +5,28 @@ description: What is supervise machine learning? Find out what it is, how it's d
 
 Welcome to Day 6 of 14 Days of Data Science, a countdown to Data Science Day on March 14th.
 
+## Introduction 
+Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
+
+![Woman and man reading books](./../images/learning.jpg)
+
+<span style="color:grey; font-size:8px
+">Attribution<a href=https://pixabay.com/users/alexandra_koch-621802/  style="color:grey; font-size:8px"> Alexandra_kock</a></span>
+
+Supervised Machine Learning follows this same idea by providing labeled training data to a chosen algorithm. This is data where we know the various inputs as well as the output. For instance, our data set could contain various features of different dog like height, length, tail length, etc. The data we use for training or model would also have the output we want to train our model to predict, the bread of dog. The goal is to be able to provide the trained model new inputs and for it to predict the bread of dog.
+
+![Three different breeds of dogs with labels](./../images/dogs-with-labels.png)
+
+<span style="color:grey; font-size:8px
+">Attribution<a href=https://pixabay.com/users/dandelion_tea-15261675/  style="color:grey; font-size:8px"> dandelion_tea</a></span>
+
 ## What is Machine Learning?
 Machine Learning is a subfield of Data Science and is at the heart of many AI technologies that have become popular in recent years. There are various types of Machine Learning, along with many different algorithms and processes used within it.
 
 When performing Machine Learning, a computational model is created by learning from data and identifying patterns. With this model, predictions or decisions can be made programmatically without explicitly programming the logic or answers the user will receive.
 
 ## What is ***Supervised*** Machine Learning?
-Supervised machine learning is a core concept in AI, where algorithms learn from labeled data to make predictions or decisions. The data provided for training includes both input features and corresponding output labels. The goal is to teach the algorithm to recognize patterns in the data so it can generalize and make predictions on new, unseen data. 
+Supervised Machine Learning is a core concept in AI, where algorithms learn from labeled data to make predictions or decisions. The data provided for training includes both input features and corresponding output labels. The goal is to teach the algorithm to recognize patterns in the data so it can generalize and make predictions on new, unseen data. 
 
 Tasks like classification (predicting categories) and regression (predicting values) fall under supervised learning. It's used in various fields like image recognition, identifying spam emails, and more. The success of supervised learning hinges on having high-quality labeled data and selecting suitable algorithms and models
 
@@ -27,9 +42,7 @@ Start by collecting and preprocessing a labeled dataset, ensuring it is represen
 Data cleaning involves identifying and rectifying errors, inconsistencies and anomalies in the dataset to improve its quality and reliability for analysis. This can involve handling missing values, removing duplicates, addressing outliers, transforming data, and ensuring data consistency and accuracy.
 
 3. **Feature selection**<br>
-
-Feature selection involves the process of identifying and choosing the most relevant features from a dataset to improve model performance and reduce overfitting. It entails evaluating the importance or relevance of each feature using statistical methods, domain knowledge, or automated algorithms and selecting a subset of features that contribute most significantly to the predictive task at hand. 
-
+Feature selection involves the process of identifying and choosing the most relevant features from a dataset to improve model performance and reduce overfitting. It entails evaluating the importance or relevance of each feature using statistical methods, domain knowledge, or automated algorithms and selecting a subset of features that contribute most significantly to the predictive task at hand. <br> <br>
 Additionally, it's crucial to consider potential biases in the data, such as unequal representation of certain features, which can impact the effectiveness and fairness of the selected features and the resulting model. It is important to get to know your data and understand the real world biases that could be embedded within it.
 
 
