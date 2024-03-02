@@ -1,6 +1,6 @@
 ---
 title: 3. GitHub Copilot
-description:  Use Pre-built & reproducible dev environments for productivity 
+description:  Focused learning with AI-assisted coaching and exploration
 ---
 
 Welcome to `Day 03` of **Developer Tools Week** as we continue our learning journey into Data Science! Today, let's talk about the GitHub Copilot extension and how we can use it for _focused learning_ inline, or in chat mode.
