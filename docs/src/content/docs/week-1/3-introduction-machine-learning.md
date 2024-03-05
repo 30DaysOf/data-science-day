@@ -1,6 +1,6 @@
 ---
 title: Introduction to Machine Learning
-description: 
+description: Introduction to machine learning
 ---
 
 # Introduction to Machine Learning

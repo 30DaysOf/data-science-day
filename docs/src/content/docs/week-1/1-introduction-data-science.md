@@ -5,11 +5,6 @@ description: Learn about the foundations of Data Science, and kickoff of the 14 
 
 Welcome to week  `Day 01` of **Foundations of Data Science Week**. Today we'll dive into the foundations of data science and learn about Data Science day, happening on March 14th. 
 
----
-
-![Banner For Week 2 Post 1](./img/DataScienceDay-Foundations-1.png)
-
----
 
 ## About Data Science Day
 
