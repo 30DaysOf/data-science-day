@@ -3,6 +3,8 @@ title: The Data Science Developer Experience and Welcome to Data Science Day
 description: Explore the tools used by data scientists and learn about what to expect at Data Science day.
 ---
 
+Welcome to week  `Day 07` of **Foundations of Data Science Week**. Today, we ...
+
 # The Data Science Developer Experience 
 
 ## Welcome to Data Science Day 🎉

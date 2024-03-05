@@ -3,11 +3,9 @@ title: Responsible AI in Data Science
 description: With great power comes great responsibility, learn about the considerations to have in mind to ensure we're using AI for good.  
 ---
 
-Welcome to Day 2 of 14 Days of Data Science, a countdown to Data Science Day on March 14th.
+Welcome to week  `Day 02` of **Foundations of Data Science Week**. Today, we delve into an increasingly critical topic: responsible AI. As the power of artificial intelligence continues to permeate every aspect of our lives, it becomes imperative to recognize and uphold the principles of responsible AI development and deployment.
 
-Today, we delve into an increasingly critical topic: responsible AI. As the power of artificial intelligence continues to permeate every aspect of our lives, it becomes imperative to recognize and uphold the principles of responsible AI development and deployment.
-
-![Image of Microsoft's responsible AI principles](img/rai-principles.png)
+![Image of Microsoft's responsible AI principles](./img/rai-principles.png)
 
 ## Understanding Responsible AI
 

@@ -3,6 +3,8 @@ title: Introduction to Machine Learning
 description: Introduction to machine learning
 ---
 
+Welcome to week  `Day 03` of **Foundations of Data Science Week**. Today, we delve into an increasingly critical topic: responsible AI. As the power of artificial intelligence continues to permeate every aspect of our lives, it becomes imperative to recognize and uphold the principles of responsible AI development and deployment.
+
 # Introduction to Machine Learning
 
 ## What's next?

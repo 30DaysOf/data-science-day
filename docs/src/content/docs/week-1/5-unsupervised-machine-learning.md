@@ -3,7 +3,7 @@ title: Unsupervised Machine Learning
 description: What is Unsupervised Machine Learning? Find out what it is and how you can use it.
 ---
 
-Welcome to Day 7 of 14 Days of Data Science, a countdown to Data Science Day on March 14th.
+Welcome to week  `Day 05` of **Foundations of Data Science Week**. Today, we ...
 
 ## What is ***Unsupervised*** Machine Learning?
 Unsupervised machine learning stands as a cornerstone of modern data science, offering a unique approach to uncovering hidden structures and relationships within data. 

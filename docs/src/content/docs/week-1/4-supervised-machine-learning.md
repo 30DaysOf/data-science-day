@@ -3,10 +3,7 @@ title: Supervised Machine learning
 description: What is supervised machine learning? Find out what it is, how it's different from other types of machine learning, and some ways of using it!
 ---
 
-Welcome to Day 6 of 14 Days of Data Science, a countdown to Data Science Day on March 14th.
-
-## Introduction 
-Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
+Welcome to week  `Day 04` of **Foundations of Data Science Week**. Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
 
 ![Woman and man reading books](./img/learning.jpg)
 

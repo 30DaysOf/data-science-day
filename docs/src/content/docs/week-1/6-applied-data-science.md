@@ -3,6 +3,8 @@ title: Applied Data Science
 description: Explore the techniques used by data scientists.
 ---
 
+Welcome to week  `Day 06` of **Foundations of Data Science Week**. Today, we ...
+
 # Applied Data Science
 
 ## What's Next?
