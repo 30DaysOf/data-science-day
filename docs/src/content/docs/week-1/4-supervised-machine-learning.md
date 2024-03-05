@@ -8,14 +8,14 @@ Welcome to Day 6 of 14 Days of Data Science, a countdown to Data Science Day on 
 ## Introduction 
 Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
 
-![Woman and man reading books](img/learning.jpg)
+![Woman and man reading books](./img/learning.jpg)
 
 <span style="color:grey; font-size:8px
 ">Attribution<a href=https://pixabay.com/users/alexandra_koch-621802/  style="color:grey; font-size:8px"> Alexandra_kock</a></span>
 
 Supervised Machine Learning follows this same idea by providing labeled training data to a chosen algorithm. This is data where we know the various inputs as well as the output. For instance, our data set could contain various features of different dog like height, length, tail length, etc. The data we use for training or model would also have the output we want to train our model to predict, the bread of dog. The goal is to be able to provide the trained model new inputs and for it to predict the bread of dog.
 
-![Three different breeds of dogs with labels](img/dogs-with-labels.png)
+![Three different breeds of dogs with labels](./img/dogs-with-labels.png)
 
 <span style="color:grey; font-size:8px
 ">Attribution<a href=https://pixabay.com/users/dandelion_tea-15261675/  style="color:grey; font-size:8px"> dandelion_tea</a></span>

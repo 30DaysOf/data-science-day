@@ -13,7 +13,7 @@ Welcome to week  `Day 01` of **Foundations of Data Science Week**. Today we'll d
 Data Science Day is free and aimed at anyone who is interested in data science and machine learning, whether they are beginners or experts, hobbyists or professionals, students or researchers. Join us on March 14th 2024!
 
 
-| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](img/sketchnote-data-science.png) |
+| ![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](./img/sketchnote-data-science.png) |
 | :----------------------------------------------------------------------------------------------------: |
 |              Defining Data Science - _Sketchnote by [@nitya](https://twitter.com/nitya)_               |
 
