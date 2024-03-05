@@ -36,9 +36,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: '1️⃣ | Fundamentals',
-					items: [
-						{ label: 'Overview', link: '/week-1/' },
-					],
+					autogenerate: { directory: 'week-1' },
 				},
 				{
 					label: '2️⃣ | Developer Tools',

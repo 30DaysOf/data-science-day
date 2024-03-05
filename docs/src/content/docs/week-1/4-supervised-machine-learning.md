@@ -1,5 +1,5 @@
 ---
-title: Supervised Machine learning
+title: 4. Supervised Machine learning
 description: What is supervised machine learning? Find out what it is, how it's different from other types of machine learning, and some ways of using it!
 ---
 

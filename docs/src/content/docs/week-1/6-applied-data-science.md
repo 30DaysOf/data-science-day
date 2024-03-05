@@ -1,5 +1,5 @@
 ---
-title: Applied Data Science
+title: 6. Applied Data Science
 description: Explore the techniques used by data scientists.
 ---
 

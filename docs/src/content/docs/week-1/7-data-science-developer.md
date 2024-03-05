@@ -1,5 +1,5 @@
 ---
-title: The Data Science Developer Experience and Welcome to Data Science Day
+title: 7. The Data Science Developer Experience and Welcome to Data Science Day
 description: Explore the tools used by data scientists and learn about what to expect at Data Science day.
 ---
 

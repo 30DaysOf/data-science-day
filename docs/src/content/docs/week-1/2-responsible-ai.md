@@ -1,5 +1,5 @@
 ---
-title: Responsible AI in Data Science
+title: 2. Responsible AI in Data Science
 description: With great power comes great responsibility, learn about the considerations to have in mind to ensure we're using AI for good.  
 ---
 
