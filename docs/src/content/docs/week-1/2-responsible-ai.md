@@ -74,6 +74,6 @@ cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwp
 
 ---
 
-![Banner For Week 1 Post 2](./img/DataScienceDay-Foundations-2.png)
+![Banner For Week 1 Post 2](./img/banners/DataScienceDay-Foundations-2.png)
 
 ---

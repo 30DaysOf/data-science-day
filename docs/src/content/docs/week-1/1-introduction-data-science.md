@@ -60,15 +60,15 @@ Tomorrow, you'll learn about resposible AI and its role in Data Science.
 ---
 title: Welcome to 14 days of Data Science!
 published: false
-description: https://aka.ms/30DaysOfSWA or follow #staticwebapps on @thepracticaldev 
+description: 
 tags: data science, machine learning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwpd38tlzsx26.png
+cover_image: 
 --- -->
 
 ---
 
-![Banner For Week 1 Post 1](./img/DataScienceDay-Foundations-1.png)
+![Banner For Week 1 Post 1](./img/banners/DataScienceDay-Foundations-1.png)
 
 ---

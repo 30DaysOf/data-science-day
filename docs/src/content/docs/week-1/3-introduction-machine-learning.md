@@ -25,15 +25,15 @@ Welcome to week  `Day 03` of **Foundations of Data Science Week**. Today, we del
 ---
 title: Introduction to Machine Learning
 published: false
-description: https://aka.ms/30DaysOfSWA or follow #staticwebapps on @thepracticaldev 
+description:
 tags: data science, machine learning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwpd38tlzsx26.png
+cover_image:
 --- -->
 
 ---
 
-![Banner For Week 1 Post 3](./img/DataScienceDay-Foundations-3.png)
+![Banner For Week 1 Post 3](./img/banners/DataScienceDay-Foundations-3.png)
 
 ---
