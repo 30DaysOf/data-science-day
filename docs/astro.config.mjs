@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 
 	site: 'https://30daysof.github.io',
-	base: '/data-science',
+	base: '/data-science-day',
 	trailingSlash: "always",
 	
 	integrations: [
@@ -34,6 +34,28 @@ export default defineConfig({
 			},
 
 			sidebar: [
+				{
+					label: '1️⃣ | Fundamentals',
+					items: [
+						{ label: 'Overview', link: '/week-1/' },
+					],
+				},
+				{
+					label: '2️⃣ | Developer Tools',
+					autogenerate: { directory: 'week-2' },
+				},
+				{
+					label: '3️⃣ | Real World Usage',
+					items: [
+						{ label: 'Overview', link: '/week-3/' },
+					],
+				},
+				{
+					label: '4️⃣ | Advanced Topics',
+					items: [
+						{ label: 'Overview', link: '/week-4/' },
+					],
+				},
 				{
 					label: 'Concepts',
 					items: [
