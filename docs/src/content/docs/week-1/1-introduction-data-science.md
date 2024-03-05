@@ -1,5 +1,5 @@
 ---
-title: Introduction to Data Science
+title: 1. Introduction to Data Science
 description: Learn about the foundations of Data Science, and kickoff of the 14 Days of Data Science Blog Series.
 ---
 
