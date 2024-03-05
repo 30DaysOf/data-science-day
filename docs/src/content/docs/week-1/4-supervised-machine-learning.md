@@ -1,5 +1,5 @@
 ---
-title: Supervised learning
+title: Supervised Machine learning
 description: What is supervised machine learning? Find out what it is, how it's different from other types of machine learning, and some ways of using it!
 ---
 
@@ -110,3 +110,22 @@ Tomorrow, you'll explore another side of Machine Learning when we take a look at
 - Join us on Discord at https://aka.ms/python-discord
 - [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
 - [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
+
+
+
+<!-- for DEV.TO
+---
+title: Supervised Machine Learning
+published: false
+description: https://aka.ms/30DaysOfSWA or follow #staticwebapps on @thepracticaldev 
+tags: data science, machine learning, python
+series: 14 Days of Data Science
+canonical_url: https://aka.ms/
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwpd38tlzsx26.png
+--- -->
+
+---
+
+![Banner For Week 1 Post 4](./img/DataScienceDay-Foundations-4.png)
+
+---

@@ -5,6 +5,11 @@ description: Learn about the foundations of Data Science, and kickoff of the 14 
 
 Welcome to week  `Day 01` of **Foundations of Data Science Week**. Today we'll dive into the foundations of data science and learn about Data Science day, happening on March 14th. 
 
+---
+
+![Banner For Week 2 Post 1](./img/DataScienceDay-Foundations-1.png)
+
+---
 
 ## About Data Science Day
 
@@ -54,3 +59,21 @@ Tomorrow, you'll learn about resposible AI and its role in Data Science.
 - Join us on Discord at https://aka.ms/python-discord
 - [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
 - [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
+
+
+<!-- 
+---
+title: Welcome to 14 days of Data Science!
+published: false
+description: https://aka.ms/30DaysOfSWA or follow #staticwebapps on @thepracticaldev 
+tags: data science, machine learning, python
+series: 14 Days of Data Science
+canonical_url: https://aka.ms/
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwpd38tlzsx26.png
+--- -->
+
+---
+
+![Banner For Week 1 Post 1](./img/DataScienceDay-Foundations-1.png)
+
+---

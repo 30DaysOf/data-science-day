@@ -15,3 +15,20 @@ description: Explore the techniques used by data scientists.
 - Join us on Discord at https://aka.ms/python-discord
 - [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
 - [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
+
+<!-- for DEV.TO
+---
+title: Applied Data Science
+published: false
+description: https://aka.ms/30DaysOfSWA or follow #staticwebapps on @thepracticaldev 
+tags: data science, machine learning, python
+series: 14 Days of Data Science
+canonical_url: https://aka.ms/
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwpd38tlzsx26.png
+--- -->
+
+---
+
+![Banner For Week 1 Post 6](./img/DataScienceDay-Foundations-6.png)
+
+---
