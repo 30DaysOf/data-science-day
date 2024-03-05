@@ -7,7 +7,7 @@ description: Learn foundational Data Science concepts and understand the Data Sc
 
 | Day | Topic | Description |
 |:---|:---|:---|
-| 1️⃣ | **Foundations of Data Science** | |
+| 1️⃣ | **Foundations of Data Science** | What is Data Science? |
 | 2️⃣ | **Responsible AI in Data Science*** |  |
 | 3️⃣ | **Introduction to Machine Learning** | |
 | 4️⃣ | **Supervised and Unsupervised Machine Learning** |  |

@@ -1,6 +1,6 @@
 ---
-title: Machine Learning Fundamentals - Supervised learning
-description: What is supervise machine learning? Find out what it is, how it's different from other types of machine learning, and some ways of using it!
+title: Supervised learning
+description: What is supervised machine learning? Find out what it is, how it's different from other types of machine learning, and some ways of using it!
 ---
 
 Welcome to Day 6 of 14 Days of Data Science, a countdown to Data Science Day on March 14th.
@@ -8,14 +8,14 @@ Welcome to Day 6 of 14 Days of Data Science, a countdown to Data Science Day on 
 ## Introduction 
 Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
 
-![Woman and man reading books](./../images/learning.jpg)
+![Woman and man reading books](img/learning.jpg)
 
 <span style="color:grey; font-size:8px
 ">Attribution<a href=https://pixabay.com/users/alexandra_koch-621802/  style="color:grey; font-size:8px"> Alexandra_kock</a></span>
 
 Supervised Machine Learning follows this same idea by providing labeled training data to a chosen algorithm. This is data where we know the various inputs as well as the output. For instance, our data set could contain various features of different dog like height, length, tail length, etc. The data we use for training or model would also have the output we want to train our model to predict, the bread of dog. The goal is to be able to provide the trained model new inputs and for it to predict the bread of dog.
 
-![Three different breeds of dogs with labels](./../images/dogs-with-labels.png)
+![Three different breeds of dogs with labels](img/dogs-with-labels.png)
 
 <span style="color:grey; font-size:8px
 ">Attribution<a href=https://pixabay.com/users/dandelion_tea-15261675/  style="color:grey; font-size:8px"> dandelion_tea</a></span>
@@ -100,6 +100,13 @@ Some supervised learning algorithms, particularly deep learning models, can be c
 
 Tomorrow, you'll explore another side of Machine Learning when we take a look at unsupervised machine learning and how you can use that. 
 
-## Further reading
+## Learn More
 
 - Read more about Machine Learning and how to create Supervised Machine Learning models in [The Understand data science for machine learning learning path](https://learn.microsoft.com/en-us/training/paths/understand-machine-learning/) Microsoft Learn pathway.
+
+## More Data Science at Microsoft
+
+- [Check out the Data Science Cloud Skills Challenge](https://aka.ms/python/DataScienceDay/CSC) if you want to go through some self-paced learning! This challenge is active until April 15th, 2024.
+- Join us on Discord at https://aka.ms/python-discord
+- [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
+- [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)

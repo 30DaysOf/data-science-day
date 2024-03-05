@@ -1,11 +1,11 @@
 ---
-title: Machine Learning Fundamentals - Unsupervised learning
-description: What is Unsupervise Machine Learning? Find out what it is and how you can use it.
+title: Unsupervised machine learning
+description: What is Unsupervised Machine Learning? Find out what it is and how you can use it.
 ---
 
 Welcome to Day 7 of 14 Days of Data Science, a countdown to Data Science Day on March 14th.
 
-## What is ***Supervised*** Machine Learning?
+## What is ***Unsupervised*** Machine Learning?
 Unsupervised machine learning stands as a cornerstone of modern data science, offering a unique approach to uncovering hidden structures and relationships within data. 
 
 Unlike supervised learning, which relies on labeled data to make predictions, unsupervised learning operates on unlabeled data, allowing algorithms to identify patterns and clusters autonomously. This makes it particularly well-suited for exploratory data analysis, working with data with many dimensions, such as images, and anomaly detection tasks where it can infer normal and abnormal behaviours from statistical distributions in unlabeled data.
@@ -42,10 +42,13 @@ Unlike supervised learning, which relies on labeled data to make predictions, un
 4. **z**<br>
 
 
-
 ## What's Next?
 
+## Learn More
 
+## More Data Science at Microsoft
 
-## Further reading
-
+- [Check out the Data Science Cloud Skills Challenge](https://aka.ms/python/DataScienceDay/CSC) if you want to go through some self-paced learning! This challenge is active until April 15th, 2024.
+- Join us on Discord at https://aka.ms/python-discord
+- [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
+- [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
