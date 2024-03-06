@@ -1,4 +1,4 @@
-# Learn with #30DaysOfDataScience
+# Learn with #14Days Of DataScience
 
 ## 1. Learning Objectives
 
@@ -27,25 +27,3 @@ To preview the documentation site:
 cd docs;
 npm install && npm run dev
 ```
-
-## 4. 30DaysOf Roadmap
-
-Ww'll break the content into 4 weekly themes:
- - Learn Core Concepts
- - Understand Core Tools
- - Project 1: Analyze and Visualize Data from an Open-Source Data Set
- - Project 2: Debug and Assess Data Model for Responsible AI Practices
-
-Details TBD.
-
-| Topic | Description |
-|:---|:---|
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
