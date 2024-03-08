@@ -17,11 +17,6 @@ Supervised Machine Learning follows this same idea by providing labeled training
 <span style="color:grey; font-size:8px
 ">Attribution<a href=https://pixabay.com/users/dandelion_tea-15261675/  style="color:grey; font-size:8px"> dandelion_tea</a></span>
 
-## What is Machine Learning?
-Machine Learning is a subfield of Data Science and is at the heart of many AI technologies that have become popular in recent years. There are various types of Machine Learning, along with many different algorithms and processes used within it.
-
-When performing Machine Learning, a computational model is created by learning from data and identifying patterns. With this model, predictions or decisions can be made programmatically without explicitly programming the logic or answers the user will receive.
-
 ## What is ***Supervised*** Machine Learning?
 Supervised Machine Learning is a core concept in AI, where algorithms learn from labeled data to make predictions or decisions. The data provided for training includes both input features and corresponding output labels. The goal is to teach the algorithm to recognize patterns in the data so it can generalize and make predictions on new, unseen data. 
 
@@ -105,8 +100,8 @@ Tomorrow, you'll explore another side of Machine Learning when we take a look at
 
 - [Check out the Data Science Cloud Skills Challenge](https://aka.ms/python/DataScienceDay/CSC) if you want to go through some self-paced learning! This challenge is active until April 15th, 2024.
 - Join us on Discord at https://aka.ms/python-discord
-- [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
-- [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
+- [Data Scientist Certifications](https://aka.ms/python/DataScienceDay/DataScience-certification)
+- [Data Scientist Training Path](https://aka.ms/python/DataScienceDay/DataScience-TrainingPath)
 
 
 

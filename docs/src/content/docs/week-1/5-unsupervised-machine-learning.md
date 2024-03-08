@@ -50,8 +50,8 @@ Unlike supervised learning, which relies on labeled data to make predictions, un
 
 - [Check out the Data Science Cloud Skills Challenge](https://aka.ms/python/DataScienceDay/CSC) if you want to go through some self-paced learning! This challenge is active until April 15th, 2024.
 - Join us on Discord at https://aka.ms/python-discord
-- [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
-- [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
+- [Data Scientist Certifications](https://aka.ms/python/DataScienceDay/DataScience-certification)
+- [Data Scientist Training Path](https://aka.ms/python/DataScienceDay/DataScience-TrainingPath)
 
 
 <!-- for DEV.TO
