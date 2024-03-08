@@ -72,7 +72,7 @@ There are a lot of different machine learning algorithms and you'll need a curso
 
 
 ## What's next?
-Tomorrow we'll take a closer look at Supervise Machine Learning where we'll discuss when you might want to, how to use it, and what kind of data you'll need.
+Tomorrow we'll take a closer look at Supervise Machine Learning where we'll discuss when you might want to Supervise Machine Learning, how to use it, and what kind of data you'll need.
 
 
 ## Learn More
