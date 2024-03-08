@@ -46,7 +46,6 @@ Model evaluation assesses the model's accuracy and it's ability to generalize on
 **Deployment:**
 Finally, successful models are deployed into production environments for real-world applications.
 
-Here's the corrected version:
 
 ## What do you need in order to get started with Machine Learning?
 
