@@ -13,7 +13,7 @@ Imagine artificial intelligence (AI) as a powerful toolbox filled with various t
 
 ## The Importance of Responsible AI in Data Science
 
-As new technology solutions are created every day, society becomes more reliant on it, whether you're using it directly or not. A lot of these technologies are begining to feature AI heavily, and so the potential of AI to have an impact on peoples' lives is growing rapidly. 
+As new technology solutions are created every day, society becomes more reliant on it, whether you're using it directly or not. A lot of these technologies are beginning to feature AI heavily, and so the potential of AI to have an impact on peoples' lives is growing rapidly. 
 
 Responsible AI practices are fundamental to building trustworthy, equitable, and sustainable technology ecosystems that work to ensure that the impact that technolgy has is a good one. A few different perspectives to consider for any AI solution are:
 
