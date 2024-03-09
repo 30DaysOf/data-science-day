@@ -53,16 +53,6 @@ export default defineConfig({
 						{ label: 'Overview', link: '/week-4/' },
 					],
 				},
-				{
-					label: 'Concepts',
-					items: [
-						{ label: 'Learn Fundamentals', link: '/concepts/example/' },
-					],
-				},
-				{
-					label: 'Projects',
-					autogenerate: { directory: 'projects' },
-				},
 			],
 		}),
 
