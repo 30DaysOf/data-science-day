@@ -12,17 +12,16 @@ export default defineConfig({
 		starlight({
 			title: 'Leap Into Data Science',
 			logo: {
-				light: './src/assets/astro-light.png',
-				dark: './src/assets/astro-dark.png',
+				light: './src/assets/logo.png',
+				dark: './src/assets/logo.png',
 			},
 			customCss: [
 				'./src/styles/custom.css',
 			],
 			social: {
-				github: 'https://github.com/nitya',
-				linkedin: 'https://www.linkedin.com/in/nityan',
-				twitter: 'https://twitter.com/nitya',
-				youtube: 'https://youtube.com/@nityanarasimhan',
+				github: 'https://github.com/30DaysOf/data-science-day',
+				twitter: 'https://twitter.com/azureadvocates',
+				youtube: 'https://www.youtube.com/playlist?list=PLj6YeMhvp2S4aIxuGH0NaGXQZlVUBsH3E',
 			},
 			
 			defaultLocale: 'root', // optional
@@ -53,16 +52,6 @@ export default defineConfig({
 					items: [
 						{ label: 'Overview', link: '/week-4/' },
 					],
-				},
-				{
-					label: 'Concepts',
-					items: [
-						{ label: 'Learn Fundamentals', link: '/concepts/example/' },
-					],
-				},
-				{
-					label: 'Projects',
-					autogenerate: { directory: 'projects' },
 				},
 			],
 		}),

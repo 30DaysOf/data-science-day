@@ -13,7 +13,7 @@ Imagine artificial intelligence (AI) as a powerful toolbox filled with various t
 
 ## The Importance of Responsible AI in Data Science
 
-As new technology solutions are created every day, society becomes more reliant on it, whether you're using it directly or not. A lot of these technologies are begining to feature AI heavily, and so the potential of AI to have an impact on peoples' lives is growing rapidly. 
+As new technology solutions are created every day, society becomes more reliant on it, whether you're using it directly or not. A lot of these technologies are beginning to feature AI heavily, and so the potential of AI to have an impact on peoples' lives is growing rapidly. 
 
 Responsible AI practices are fundamental to building trustworthy, equitable, and sustainable technology ecosystems that work to ensure that the impact that technolgy has is a good one. A few different perspectives to consider for any AI solution are:
 
@@ -50,15 +50,15 @@ Tomorrow, you’ll be introduced to the world of machine learning, where you’l
 
 ## Learn More
 
-- To learn more about Responsible AI check out  [Microsoft's Responsible AI Tools and Practices](https://www.microsoft.com/en-us/ai/tools-practices).
+- To learn more about Responsible AI check out  [Microsoft's Responsible AI Tools and Practices](https://aka.ms/python/DataScienceDay/AI-practices).
 
 
 ## More Data Science at Microsoft
 
 - [Check out the Data Science Cloud Skills Challenge](https://aka.ms/python/DataScienceDay/CSC) if you want to go through some self-paced learning! This challenge is active until April 15th, 2024.
 - Join us on Discord at https://aka.ms/python-discord
-- [Data Scientist Certifications](https://learn.microsoft.com/credentials/certifications/roles/data-scientist)
-- [Data Scientist Training Path](https://learn.microsoft.com/training/career-paths/data-scientist)
+- [Data Scientist Certifications](https://aka.ms/python/DataScienceDay/DataScience-certification)
+- [Data Scientist Training Path](https://aka.ms/python/DataScienceDay/DataScience-TrainingPath)
 
 
 <!-- for DEV.TO
@@ -66,7 +66,7 @@ Tomorrow, you’ll be introduced to the world of machine learning, where you’l
 title: Welcome to 14 days of Data Science!
 published: false
 description: https://aka.ms/30DaysOfSWA or follow #staticwebapps on @thepracticaldev 
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94xuz38iwpd38tlzsx26.png
