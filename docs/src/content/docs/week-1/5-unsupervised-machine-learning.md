@@ -59,7 +59,7 @@ Unlike supervised learning, which relies on labeled data to make predictions, un
 title: Unsupervised Machine Learning
 published: false
 description: 
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image:

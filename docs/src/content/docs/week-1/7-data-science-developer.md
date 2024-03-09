@@ -25,7 +25,7 @@ Welcome to week  `Day 07` of **Foundations of Data Science Week**. Today, we ...
 title: The Data Science Developer Experience
 published: false
 description:
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image: 

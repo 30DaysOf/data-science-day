@@ -23,7 +23,7 @@ Welcome to week  `Day 06` of **Foundations of Data Science Week**. Today, we ...
 title: Applied Data Science
 published: false
 description: 
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image: 

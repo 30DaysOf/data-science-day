@@ -110,7 +110,7 @@ Tomorrow, you'll explore another side of Machine Learning when we take a look at
 title: Supervised Machine Learning
 published: false
 description:
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image:

@@ -3,21 +3,21 @@ title: 3. Introduction to Machine Learning
 description: Introduction to machine learning
 ---
 
-Welcome to week  `Day 03` of **Foundations of Data Science Week**. Today, we delve into a a topic a lot of people will have heard about, but not necessarily understand, Machine Learning. You probably interact with Machine Learning Models everyday wihtout realising, whether it's advertising in social media trying to show you the next item you should purchase, to autocorrect helping you send text messages, to email filters keeping your inbox spam free. The applicaitons of Machine Learning are endless and today we'll discuss the basics of how they work. 
+Welcome to week  `Day 03` of **Foundations of Data Science Week**. Today, we delve into a a topic a lot of people will have heard about, but not necessarily understand, Machine Learning. You probably interact with Machine Learning Models everyday without realising, whether it's advertising in social media trying to show you the next item you should purchase, to autocorrect helping you send text messages, to email filters keeping your inbox spam free. The applications of Machine Learning are endless and today we'll discuss the basics of how they work. 
 
-| ![ Robots Learning Cartoon by [Manfred Steger](https://pixabay.com/users/manfredsteger-1848497) ](./img/machine-learning.png) |
+| ![ Robots Learning Cartoon by Manfred Steger](https://pixabay.com/users/manfredsteger-1848497) ](./img/machine-learning.png) |
 | :----------------------------------------------------------------------------------------------------: |
 |
 Image by [Manfred Steger](https://pixabay.com/users/manfredsteger-1848497) from [Pixabay](https://pixabay.com/)            |
 
 
-# Introduction to Machine Learning
+## What is Machine Learning
 
-Machine Learning is a subfield of Data Science and is at the heart of many AI technologies that have become popular in recent years. Machine Learning covers a broad range of techniques and algorithms that train a computational models using some combination or mathematics and statstics. 
+Machine Learning is a subfield of Data Science and is at the heart of many AI technologies that have become popular in recent years. Machine Learning covers a broad range of techniques and algorithms that train a computational models using some combination or mathematics and statistics. 
 
 The training process is much like any human learning process, where from previous experiences, data, and patterns we learn to identify patterns that enable us to solve future problems. With a well trained Machine Learning model, predictions or decisions can be made programmatically without explicitly programming the logic or answers that the model can return to the user. 
 
-But much like any person's knowledge, a Machine Learning model is only as good as the training it has received, so ensuring that training data is of a high quality is essential to creating a robust Machine Learing module that you can reliably count on for predicting future outcomes. 
+But much like any person's knowledge, a Machine Learning model is only as good as the training it has received, so ensuring that training data is of a high quality is essential to creating a robust Machine Learning module that you can reliably count on for predicting future outcomes. 
 
 ## Understanding the Types of Machine Learning
 
@@ -92,7 +92,7 @@ Tomorrow we'll take a closer look at Supervise Machine Learning where we'll disc
 title: Introduction to Machine Learning
 published: false
 description:
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image:

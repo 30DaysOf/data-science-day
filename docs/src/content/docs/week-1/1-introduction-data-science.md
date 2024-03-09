@@ -61,7 +61,7 @@ Tomorrow, you'll learn about resposible AI and its role in Data Science.
 title: Welcome to 14 days of Data Science!
 published: false
 description: 
-tags: data science, machine learning, python
+tags: datascience, machinelearning, python
 series: 14 Days of Data Science
 canonical_url: https://aka.ms/
 cover_image: 
