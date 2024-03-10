@@ -7,7 +7,7 @@ Welcome to week  `Day 06` of **Foundations of Data Science Week**. Today, we wil
 
 # The Data Science Lifecycle
 
-|![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](.img/sketchnote-ds-lifecycle.png)|
+|![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](./img/sketchnote-ds-lifecycle.png)|
 |:---:|
 | Introduction to the Data Science Lifecycle - _Sketchnote by [@nitya](https://twitter.com/nitya)_ |
 

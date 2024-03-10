@@ -5,10 +5,10 @@ description: Introduction to machine learning
 
 Welcome to week  `Day 03` of **Foundations of Data Science Week**. Today, we delve into a a topic a lot of people will have heard about, but not necessarily understand, Machine Learning. You probably interact with Machine Learning Models everyday without realising, whether it's advertising in social media trying to show you the next item you should purchase, to autocorrect helping you send text messages, to email filters keeping your inbox spam free. The applications of Machine Learning are endless and today we'll discuss the basics of how they work. 
 
-| ![ Robots Learning Cartoon by Manfred Steger](https://pixabay.com/users/manfredsteger-1848497) ](./img/machine-learning.png) |
-| :----------------------------------------------------------------------------------------------------: |
-|
-Image by [Manfred Steger](https://pixabay.com/users/manfredsteger-1848497) from [Pixabay](https://pixabay.com/)            |
+| ![Robots Learning Cartoon by Manfred Steger](./img/machine-learning.png) |
+|:---:|
+| Image by [Manfred Steger](https://pixabay.com/users/manfredsteger-1848497) from [Pixabay](https://pixabay.com/)            |
+ |
 
 
 ## What is Machine Learning
