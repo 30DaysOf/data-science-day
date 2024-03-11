@@ -5,17 +5,19 @@ description: What is supervised machine learning? Find out what it is, how it's 
 
 Welcome to week  `Day 04` of **Foundations of Data Science Week**. Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
 
-![Woman and man reading books](./img/learning.jpg)
-
-<span style="color:grey; font-size:8px
-">Attribution<a href=https://pixabay.com/users/alexandra_koch-621802/  style="color:grey; font-size:8px"> Alexandra_kock</a></span>
+| ![Woman and man reading books](./img/learning.jpg) |
+|:---:|
+| Image by [Alexandra_kock](https://pixabay.com/users/alexandra_koch-621802/) from [Pixabay](https://pixabay.com/)            |
+ |
 
 Supervised Machine Learning follows this same idea by providing labeled training data to a chosen algorithm. This is data where we know the various inputs as well as the output. For instance, our data set could contain various features of different dog like height, length, tail length, etc. The data we use for training or model would also have the output we want to train our model to predict, the bread of dog. The goal is to be able to provide the trained model new inputs and for it to predict the bread of dog.
 
-![Three different breeds of dogs with labels](./img/dogs-with-labels.png)
+| ![Three different breeds of dogs with labels](./img/dogs-with-labels.png) |
+|:---:|
+| Image by [dandelion_tea](https://pixabay.com/users/dandelion_tea-15261675/) from [Pixabay](https://pixabay.com/)            |
+ |
 
-<span style="color:grey; font-size:8px
-">Attribution<a href=https://pixabay.com/users/dandelion_tea-15261675/  style="color:grey; font-size:8px"> dandelion_tea</a></span>
+
 
 ## What is ***Supervised*** Machine Learning?
 Supervised Machine Learning is a core concept in AI, where algorithms learn from labeled data to make predictions or decisions. The data provided for training includes both input features and corresponding output labels. The goal is to teach the algorithm to recognize patterns in the data so it can generalize and make predictions on new, unseen data. 
@@ -94,7 +96,7 @@ Tomorrow, you'll explore another side of Machine Learning when we take a look at
 
 ## Learn More
 
-- Read more about Machine Learning and how to create Supervised Machine Learning models in [The Understand data science for machine learning learning path](https://learn.microsoft.com/en-us/training/paths/understand-machine-learning/) Microsoft Learn pathway.
+- Create your own Machine Learning models in the [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning/?WT.mc_id=academic-122423-reneenoble) Microsoft Learn module.
 
 ## More Data Science at Microsoft
 
