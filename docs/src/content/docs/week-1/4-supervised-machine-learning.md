@@ -96,7 +96,7 @@ Tomorrow, you'll explore another side of Machine Learning when we take a look at
 
 ## Learn More
 
-- Create your own Machine Learning models in the [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning/?WT.mc_id=academic-122423-reneenoble) Microsoft Learn module.
+- Create your own Machine Learning models in the[Build classical machine learning models with supervised learning](https://aka.ms/2024/data-science-recipes/SupervisedML) Microsoft Learn module.
 
 ## More Data Science at Microsoft
 
