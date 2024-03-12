@@ -3,7 +3,7 @@ title: 4. Supervised Machine learning
 description: What is supervised machine learning? Find out what it is, how it's different from other types of machine learning, and some ways of using it!
 ---
 
-Welcome to week  `Day 04` of **Foundations of Data Science Week**. Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorract, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
+Welcome to week  `Day 04` of **Foundations of Data Science Week**. Today's topic is Supervised Machine Learning. Even if you've never heard of it before, you'll be familiar with the idea. Just like going to school where students are taught when things are correct or incorrect, and they learn to figure out the answers to new problems *(like the ones they see on their exams!)*. 
 
 | ![Woman and man reading books](./img/learning.jpg) |
 |:---:|
@@ -28,7 +28,7 @@ Tasks like classification (predicting categories) and regression (predicting val
 
 Supervised machine learning is most appropriate when you have labeled data available and want to train models to make predictions or classifications based on that data. It is commonly used in scenarios where historical data contains examples of both input features and corresponding output labels. 
 
-### Data Prepartion
+### Data Preparation
 1. **Collect data**<br>
 Start by collecting and preprocessing a labeled dataset, ensuring it is representative of the full breadth of data that could be seen when considering this problem. 
 
@@ -42,9 +42,9 @@ Additionally, it's crucial to consider potential biases in the data, such as une
 
 ### Algorithm Selection
 
-There are many types of Supervised Machine Learning algorithms that are suited to different kinds of problems, for instance regression or classification. The type of algorithm you choose will depend on factors like the relationships within the data *(is the relationship with the output linear?)*, the number of groups you want to categorise things into *(is it binary? or are there more categories?)*, and the complexitiy of the relationships within the data *(does your project require deep learning?)*
+There are many types of Supervised Machine Learning algorithms that are suited to different kinds of problems, for instance regression or classification. The type of algorithm you choose will depend on factors like the relationships within the data *(is the relationship with the output linear?)*, the number of groups you want to categorise things into *(is it binary? or are there more categories?)*, and the complexity of the relationships within the data *(does your project require deep learning?)*
 
-Some of the different algorithms you should consider are: Decission Trees and Random Forests, Neural Networks, Linear Regression, Logisitc Regression, and Support Vector Machines. 
+Some of the different algorithms you should consider are: Decision Trees and Random Forests, Neural Networks, Linear Regression, Logistic Regression, and Support Vector Machines. 
 
 
 ### Model Creation
@@ -68,7 +68,7 @@ In the tuning step, you fine-tune the model's hyperparameters, parameters that c
 Supervised learning is highly effective for predictive tasks where the goal is to make accurate predictions or classifications based on known labeled data.
 
 2. **Interpretability:**<br>
-Some supervised learning algorithms, such as decision trees and linear models, offer interpretable models. This means you can look into the relationships between input features and output labels and unerstand how the the model is making its predictions.
+Some supervised learning algorithms, such as decision trees and linear models, offer interpretable models. This means you can look into the relationships between input features and output labels and understand how the the model is making its predictions.
 
 3. **Availability of Labeled Data:**<br>
 In many real-world scenarios, labeled data is readily available or can be obtained relatively easily, making supervised learning a practical approach.
