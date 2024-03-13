@@ -5,8 +5,6 @@ description: Explore the the data science lifecycle, a roadmap for transforming 
 
 Welcome to week  `Day 06` of **Foundations of Data Science Week**. Today, we will walk through the data science lifecycle: an essential roadmap for transforming raw data into meaningful insights.
 
-## What is the Data Science Lifecycle?
-
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](./img/sketchnote-ds-lifecycle.png)|
 |:---:|
 | Introduction to the Data Science Lifecycle - _Sketchnote by [@nitya](https://twitter.com/nitya)_ |
