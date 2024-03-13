@@ -62,9 +62,9 @@ Tomorrow is a brief introduction to the tools data scientists use, and details a
 
 ## Learn More
 
-- [Data Science for Beginners: Data Visualization](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/3-Data-Visualization)
-- [Data Science for Beginners: Data Science Lifecycle](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/4-Data-Science-Lifecycle)
-- [The Team Data Science Process lifecycle (TDSP)](https://learn.microsoft.com/azure/architecture/data-science-process/lifecycle)
+- [Data Science for Beginners: Data Visualization](https://aka.ms/python/DataScienceDay/DataViz)
+- [Data Science for Beginners: Data Science Lifecycle](https://aka.ms/python/DataScienceDay/DataScienceLifecycle)
+- [The Team Data Science Process lifecycle (TDSP)](https://aka.ms/python/DataScienceDay/TDSP)
 
 ## More Data Science at Microsoft
 
