@@ -31,7 +31,7 @@ Visual Studio Code (VS Code) is a versatile code editor that supports a multitud
 
 In the following tutorial, you'll dive hands-on into the tools we've discussed in this series, experiencing firsthand some of the key data science tasks we've explored. This interactive session will not only solidify your understanding of these concepts but also prepare you for our next series of posts. There, we'll delve deeper into how to harness these tools' full potential and more, advancing your data science journey.
 
-[Data Science in VS Code tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
+[Data Science in VS Code tutorial](https://aka.ms/python/DataScienceDay/DataScienceVSCode)
 
 Don't forget that you can continue to build on your skills in the [Data Science Cloud Skills Challenge](https://aka.ms/python/DataScienceDay/CSC)!
 
