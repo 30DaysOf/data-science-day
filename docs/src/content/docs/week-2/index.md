@@ -22,7 +22,7 @@ Welcome to week 2 of the data science learning journey. This week, we'll focus o
 
 March 14, 2024 (3.14) was **Pi Day** aka [Data Science Day](https://devblogs.microsoft.com/python/python-data-science-day/) at Microsoft - a full-day of talks from Python enthusiasts and experts from Microsoft and the broader community. You can check out the livestream here for all the talks:
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/scvDXfCMHYU" title="Python Data Science Day" frameborder="1"  allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/scvDXfCMHYU" title="Python Data Science Day" frameborder="1"  allowfullscreen></iframe>
 
 ## Simplifying Data Analysis with Developer Tools & AI
 
