@@ -15,6 +15,6 @@ Welcome to `Day 01` of **Developer Tools Week** in our Data Science Day journey.
 
 ---
 
-![Banner For Week 2 Post 1](./img/DataScienceDay-DevTools-1.png)
+![Banner For Week 2 Post 1](./img/DatatScienceDay-DevTools-1.png)
 
 ---

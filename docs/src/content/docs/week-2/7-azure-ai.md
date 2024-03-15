@@ -16,6 +16,6 @@ Welcome to `Day 07` of **Developer Tools Week** as we continue our learning jour
 
 ---
 
-![Banner For Week 2 Post 7](./img/DataScienceDay-DevTools-7.png)
+![Banner For Week 2 Post 7](./img/DatatScienceDay-DevTools-7.png)
 
 ---

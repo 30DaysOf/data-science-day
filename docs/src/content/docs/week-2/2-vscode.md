@@ -15,6 +15,6 @@ Welcome to `Day 02` of **Developer Tools Week** as we continue our learning jour
 
 ---
 
-![Banner For Week 2 Post 2](./img/DataScienceDay-DevTools-2.png)
+![Banner For Week 2 Post 2](./img/DatatScienceDay-DevTools-2.png)
 
 ---
