@@ -5,8 +5,6 @@ description: Explore the the data science lifecycle, a roadmap for transforming 
 
 Welcome to week  `Day 06` of **Foundations of Data Science Week**. Today, we will walk through the data science lifecycle: an essential roadmap for transforming raw data into meaningful insights.
 
-# The Data Science Lifecycle
-
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](./img/sketchnote-ds-lifecycle.png)|
 |:---:|
 | Introduction to the Data Science Lifecycle - _Sketchnote by [@nitya](https://twitter.com/nitya)_ |
@@ -62,9 +60,9 @@ Tomorrow is a brief introduction to the tools data scientists use, and details a
 
 ## Learn More
 
-- [Data Science for Beginners: Data Visualization](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/3-Data-Visualization)
-- [Data Science for Beginners: Data Science Lifecycle](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/4-Data-Science-Lifecycle)
-- [The Team Data Science Process lifecycle (TDSP)](https://learn.microsoft.com/azure/architecture/data-science-process/lifecycle)
+- [Data Science for Beginners: Data Visualization](https://aka.ms/python/DataScienceDay/DataViz)
+- [Data Science for Beginners: Data Science Lifecycle](https://aka.ms/python/DataScienceDay/DataScienceLifecycle)
+- [The Team Data Science Process lifecycle (TDSP)](https://aka.ms/python/DataScienceDay/TDSP)
 
 ## More Data Science at Microsoft
 
