@@ -9,13 +9,13 @@ Welcome to week 2 of the data science learning journey. This week, we'll focus o
 
 | Day | Topic | Description |
 |:---|:---|:---|
-| 1️⃣ | [**GitHub Codespaces**](./1-codespaces.md) | Pre-built & reproducible dev environments for productivity |
-| 2️⃣ | [**Visual Studio Code**](./2-vscode.md) | Enhanced & shareable profiles for consistency, collaboration |
-| 3️⃣ | [**GitHub Copilot**](./3-github-copilot.md) | Focused learning with AI-assisted coaching and exploration |
-| 4️⃣ | [**Open Datasets**](./4-open-datasets.md) | Learn from OSS communities like Kaggle & Hugging Face |
-| 5️⃣ | [**Responsible AI**](./5-responsible-ai.md) | Explore the toolkit for model debugging and decision making |
-| 6️⃣ | [**Project LIDA**](./6-project-lida.md) | Explore tools for AI-assisted data visualization & summarization |
-| 7️⃣ | [**Azure AI Platform**](./7-azure-ai.md) | Make the paradigm shift to LLM Ops with a unified platform |
+| 1️⃣ | [**GitHub Codespaces**](./1-codespaces.md) | Reproducible dev environments for productivity |
+| 2️⃣ | [**Visual Studio Code**](./2-vscode.md) | Shareable profiles for consistency & collaboration |
+| 3️⃣ | [**GitHub Copilot**](./3-github-copilot.md) | Focused learning with AI assistance |
+| 4️⃣ | [**Open Datasets**](./4-open-datasets.md) | Community inspiration from Kaggle, HuggingFace |
+| 5️⃣ | [**Responsible AI**](./5-responsible-ai.md) | Explore Model Debugging & Decision-Making |
+| 6️⃣ | [**Project LIDA**](./6-project-lida.md) | AI-assisted data visualization & summarization|
+| 7️⃣ | [**Azure AI Platform**](./7-azure-ai.md) | Paradigm shift to LLM Ops with a unified platform |
 | | | |
 
 ## Data Science Day 
