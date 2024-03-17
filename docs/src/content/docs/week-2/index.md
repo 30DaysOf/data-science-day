@@ -1,21 +1,19 @@
 ---
-title: Overview
+title: Table Of Contents
 description: Setup your Development Environment and explore core developer tools to streamline your end-to-end MLOps workflow
 ---
-
-## Table Of Contents: Week 2
 
 Welcome to week 2 of the data science learning journey. This week, we'll focus on the developer experience as you progress through the data science lifecycle (to build models) and introduce the paradigm shift to LLM Ops when exploring generative AI solutions that work with Large Language Models (LLMs). Each day this week, we'll introduce a tool, platform or resource that can help _streamline_ your end-to-end workflow.
 
 | Day | Topic | Description |
 |:---|:---|:---|
-| 1️⃣ | [**GitHub Codespaces**](./1-codespaces.md) | Reproducible dev environments for productivity |
-| 2️⃣ | [**Visual Studio Code**](./2-vscode.md) | Shareable profiles for consistency & collaboration |
-| 3️⃣ | [**GitHub Copilot**](./3-github-copilot.md) | Focused learning with AI assistance |
-| 4️⃣ | [**Open Datasets**](./4-open-datasets.md) | Community inspiration from Kaggle, HuggingFace |
-| 5️⃣ | [**Responsible AI**](./5-responsible-ai.md) | Explore Model Debugging & Decision-Making |
-| 6️⃣ | [**Project LIDA**](./6-project-lida.md) | AI-assisted data visualization & summarization|
-| 7️⃣ | [**Azure AI Platform**](./7-azure-ai.md) | Paradigm shift to LLM Ops with a unified platform |
+| 1️⃣ | [**GitHub Codespaces**](1-codespaces/) | Reproducible dev environments for productivity |
+| 2️⃣ | [**Visual Studio Code**](2-vscode/) | Shareable profiles for consistency & collaboration |
+| 3️⃣ | [**GitHub Copilot**](3-github-copilot/) | Focused learning with AI assistance |
+| 4️⃣ | [**Open Datasets**](4-open-datasets/) | Community inspiration from Kaggle, HuggingFace |
+| 5️⃣ | [**Responsible AI**](5-responsible-ai/) | Explore Model Debugging & Decision-Making |
+| 6️⃣ | [**Project LIDA**](6-project-lida/) | AI-assisted data visualization & summarization|
+| 7️⃣ | [**Azure AI Platform**](7-azure-ai.md/) | Paradigm shift to LLM Ops with a unified platform |
 | | | |
 
 ## Data Science Day 
