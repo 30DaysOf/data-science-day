@@ -16,6 +16,10 @@ Welcome to week 2 of the data science learning journey. This week, we'll focus o
 | 7️⃣ | [**Azure AI Platform**](7-azure-ai.md/) | Paradigm shift to LLM Ops with a unified platform |
 | | | |
 
+Here's an illustrated guide to Week 2:
+
+![Week 2 Sketchnote](./img/14DaysOfDataScience.jpeg)
+
 ## Data Science Day 
 
 March 14, 2024 (3.14) was **Pi Day** aka [Data Science Day](https://devblogs.microsoft.com/python/python-data-science-day/) at Microsoft - a full-day of talks from Python enthusiasts and experts from Microsoft and the broader community. You can check out the livestream here for all the talks:
