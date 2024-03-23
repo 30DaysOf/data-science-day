@@ -16,6 +16,10 @@ Welcome to week 1 of the data science learning journey. We'll kick off the Data 
 | 7️⃣ | [**Data Science Developer Experience**](6-data-science-lifecycle/) |  Coding & Analysis Tools|
 | | | |
 
+Here's an illustrated guide to Week 1:
+
+![Week 1 Sketchnote](./img/14DaysOfDataScience-Wk1.png)
+
 ## Further Reading
 
 Check out these resources for self-guided learning during this event:
