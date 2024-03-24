@@ -18,7 +18,7 @@ Welcome to week 2 of the data science learning journey. This week, we'll focus o
 
 Here's an illustrated guide to Week 2:
 
-![Week 2 Sketchnote](./img/14DaysOfDataScience.jpeg)
+![Week 2 Sketchnote](./img/sketchnote-wk2.png)
 
 ## Data Science Day 
 

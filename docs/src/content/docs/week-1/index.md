@@ -18,7 +18,7 @@ Welcome to week 1 of the data science learning journey. We'll kick off the Data 
 
 Here's an illustrated guide to Week 1:
 
-![Week 1 Sketchnote](./img/14DaysOfDataScience-Wk1.png)
+![Week 1 Sketchnote](./img/sketchnote-wk1.png)
 
 ## Further Reading
 
