@@ -13,7 +13,7 @@ Welcome to week 1 of the data science learning journey. We'll kick off the Data 
 | 4️⃣ | [**Supervised Machine Learning**](4-supervised-machine-learning/) | Definition & Workflow  |
 | 5️⃣ | [**Unsupervised Machine Learning**](5-unsupervised-machine-learning/) | Definition & Workflow |
 | 6️⃣ | [**Data Science Lifecycle**](6-data-science-lifecycle/) | End-to-End Development  |
-| 7️⃣ | [**Data Science Developer Experience**](6-data-science-lifecycle/) |  Coding & Analysis Tools|
+| 7️⃣ | [**Data Science Developer Experience**](7-data-science-developer/) |  Coding & Analysis Tools|
 | | | |
 
 Here's an illustrated guide to Week 1:
