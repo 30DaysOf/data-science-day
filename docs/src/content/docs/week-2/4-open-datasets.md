@@ -40,7 +40,7 @@ One of the side-benefits of open datasets is the community that forms around the
 
 Let's look at three of my favorite sources for open datasets and community-driven learning.
 
-## 2. Explore Datasets on Kaggle
+## 2. Datasets on Kaggle
 
 [Kaggle](https://www.kaggle.com/datasets) is one of the most popular platforms and communities for machine learning and data science _learners, developers and researchers_. According to the site, it currently has 18M+ users, 309K datasets, 1M+ notebooks and 2.5K+ trained models - all shared by the community. As a learner, there are some features that are particularly helpful:
  - [Community Notebooks](https://www.kaggle.com/notebooks): Members share their work in public notebooks, which you can then study, run on their platform, and discuss with others - to build your own intuition.
@@ -54,7 +54,7 @@ Learn data analysis by doing exercises with real datasets. For instance, I am a 
 
 Now, I can build my intuition by running and remixing these notebooks - or apply my learnings to new datasets, transferring that knowledge.
 
-## 3. Explore Datasets on Hugging Face
+## 3. Datasets on Hugging Face
 
 While Kaggle focuses on the broader data science community, [Hugging Face](https://huggingface.co/) targets more advanced learners and researchers with a community that is focused on natural language processing (NLP), deep learning and generative AI. The platform provides a hub for finding models, datasets, and Spaces (hosted demos) created by the community.
 
@@ -64,7 +64,7 @@ Here are three resources to explore first on Hugging Face:
  - [Quickstart Tutorial](https://huggingface.co/docs/datasets/tutorial) to guide you through the steps of using the library with a published dataset. And extensive [how-to guides](https://huggingface.co/docs/datasets/how_to) to handle more complex tasks building on those fundamentals.
  
  
-## 4. Explore Datasets on Microsoft Azure
+## 4. Datasets on Microsoft Azure
 
 As you progress in your data science journey, you will also need to understand how to _operationalize_ your data science workflows - from enriching your machine learning models with richer datasets, to deploying them to production environments. 
 
@@ -73,7 +73,7 @@ The [Azure Open Datasets](https://learn.microsoft.com/azure/open-datasets/) plat
 The [Azure Open Datasets Catalog](https://learn.microsoft.com/en-us/azure/open-datasets/dataset-catalog) shows available datasets with **public-domain data** for weather, census, holidays, public safety, and location - grouped by application domains like Transportation, Health, Labor, Population and more. You can access datasets through APIs, and also contribute your own datasets back to the platform.
 
 
-## 5. Try It: Explore Azure Open Datasets
+## 5. Try It: Azure Open Datasets
 
 The figure shows the components of the Open Datasets service that help streamline the use of these datasets in your production workflows on Azure, using the [Python SDK](https://learn.microsoft.com/en-us/python/api/azureml-opendatasets/azureml.opendatasets?view=azure-ml-py). 
 

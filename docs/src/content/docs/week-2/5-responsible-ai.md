@@ -80,9 +80,7 @@ So how do you go from an open dataset to training your model, then debugging it 
 
 Check out [our Responsible AI Developer Hub](https://azure.github.io/responsible-ai-hub/docs/rai-dashboard-ms-learn) for links to the tutorial, presentation and a video walkthrough for a Diabetes prediction model.
 
-<div class="deck-embed js-deck-embed" style="aspect-ratio:1024/576;" data-ratio="1.7777777777777777" data-state="processed">
-    <div class="speakerdeck-embed" data-title="false" data-skip-resize="true" data-id="4fdbd94322da4e229e2be5d3763f7e2e" data-name="Train a model and debug it with Responsible AI Dashboard" data-ratio="1.7777777777777777" data-host="speakerdeck.com"></div>
-</div>
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/4fdbd94322da4e229e2be5d3763f7e2e" title="Train a model and debug it with Responsible AI Dashboard" allowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" data-ratio="1.7777777777777777"></iframe>
 
 🔖| See: [**Train a model and debug it with RAI Dashboard**](https://aka.ms/mslearn-responsibleai-dashboard).
 
